@@ -2,7 +2,6 @@ import './styles/global.css';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import CommentSection from './components/CommentSection';
 import Home from './pages/Home';
 import Posts from './pages/Posts';
 import PostDetail from './pages/PostDetail';
